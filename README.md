@@ -1,6 +1,9 @@
 # HistopatologyDetectionClassification
 The goal of this small project if to use image processing algorithms to detect blue/brown cells from histopathology.
 
+Input histopatholy RGB image
 ![alt text](https://github.com/joks93/HistopatologyDetectionClassification/blob/master/input.png?raw=true)
 
+
+Output cells detection and classification
 ![alt text](https://github.com/joks93/HistopatologyDetectionClassification/blob/master/output.png?raw=true)
