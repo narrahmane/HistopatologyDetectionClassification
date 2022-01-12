@@ -1,5 +1,5 @@
 # HistopatologyDetectionClassification
-The goal of this small project is to use image processing algorithms to detect blue/brown cells from tissue.
+The goal of this project is to use image processing algorithms to detect blue/brown cells from tissue.
 
 Input histopatholy RGB image
 
